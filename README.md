@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Airport+Management+System;OOAD+%26+UML+Modeling;Designing+Smarter+Airport+Operations" alt="Airport Management System animated heading" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Airport+Management+System;OOAD+%26+UML+PROJECT;Airport+Management+System" alt="Airport Management System animated heading" />
 
 <br/>
 
